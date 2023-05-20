@@ -8,7 +8,7 @@
 clear
 echo -e "\e[1;31m"
 
-xdg-open 
+
 
 echo "Hit ENTER to continue..."
 read
